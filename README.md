@@ -7,6 +7,7 @@ Hacktoberfest, in its 8th year, is a month-long celebration of open source softw
 * Organize an event
 * Mentor others
 * Donate directly to open source projects
+* Win exciting prizes
 
 <br>
 <br>
